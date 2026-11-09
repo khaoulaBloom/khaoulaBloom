@@ -16,7 +16,9 @@
 
 ### 🌸 Who I am
 
-An **AI Engineer** and **Cybersecurity Master's student** in Morocco 🇲🇦, exploring the intersection of intelligent systems, creative development, and cyberdefense.
+An **Cybersecurity Master's student** in Morocco 🇲🇦
+.exploring the intersection of intelligent systems
+.creative development, and cyberdefense.
 
 ```python
 khaoula = {
@@ -66,7 +68,7 @@ khaoula = {
 
 <div align="center">
 
-*soft heart, curious mind, big dreams.* 🌷
+*soft heart, curious mind, big dreams.* 
 
 <sub>Thanks for stopping by ♡</sub>
 
