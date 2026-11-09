@@ -12,6 +12,29 @@
 
 ---
 
+---
+
+<div align="center">
+
+## 🎀 ୨୧ WHO I AM ୨୧
+
+### AI Engineer ♡ Cybersecurity Student
+
+*little creativity, little code & a lot of curiosity ✨*
+
+</div>
+
+Just a girl exploring the world of **Artificial Intelligence & Cybersecurity**, turning curiosity into code and little ideas into meaningful creations. 🌷
+
+- 🎀 **My world:** AI, Machine Learning & Cybersecurity
+- 🌸 **Currently:** Master's in Cybersecurity & Cyberdefense
+- 💻 **I love:** Coding, creating & solving problems
+- 🦋 **My mindset:** Dream big, start small, keep growing
+- 📍 **Based in:** Morocco 🇲🇦
+
+---
+
+
 ### 🌸 A little about me
 
 - 🎓 Studying **Cybersecurity & Cyberdefense**
