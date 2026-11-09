@@ -53,6 +53,11 @@ and turning little ideas into meaningful projects. 🌷
   ✨ <b>Creating with purpose</b>
 </p>
 
+<br>
+
+---
+
+<br>
 
 ```python
 khaoula = {
