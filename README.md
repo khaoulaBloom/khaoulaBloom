@@ -15,15 +15,30 @@
 ---
 
 
-### 🌸 A little about me
+### 🌸 Who I am
 
 <div align="center">
 
-**AI Engineer in the making ♡ Cybersecurity Master's Student**
+### A curious mind with big dreams ♡
 
-*Curious about how intelligent systems work, how to protect them, and how to turn ideas into reality.* ✨
+I'm **Khaoula**, a Cybersecurity & Cyberdefense Master's student  
+with a love for **Artificial Intelligence, technology, and creativity.**
+
+I enjoy learning new things, exploring how technology works,  
+and turning little ideas into meaningful projects. 🌷
+
+<br>
+
+<img src="https://img.shields.io/badge/♡_AI_Enthusiast-E7A6BE?style=flat-square&labelColor=8B709B&color=E7A6BE" alt="AI Enthusiast" />
+<img src="https://img.shields.io/badge/♡_Cybersecurity-B89CE6?style=flat-square&labelColor=8B709B&color=B89CE6" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/♡_Always_Learning-F4BDD2?style=flat-square&labelColor=8B709B&color=F4BDD2" alt="Always Learning" />
+
+<br>
+
+<sub>📍 Morocco 🇲🇦 &nbsp; | &nbsp; 🎓 Learning, creating & growing</sub>
 
 </div>
+
 
 ```python
 class Khaoula:
