@@ -14,11 +14,38 @@
 
 ---
 
-### 🌸 Who I am
 
-An **Cybersecurity Master's student** in Morocco 🇲🇦
-.exploring the intersection of intelligent systems
-.creative development, and cyberdefense.
+### 🌸 A little about me
+
+<div align="center">
+
+**AI Engineer in the making ♡ Cybersecurity Master's Student**
+
+*Curious about how intelligent systems work, how to protect them, and how to turn ideas into reality.* ✨
+
+</div>
+
+```python
+class Khaoula:
+    location = "Morocco 🇲🇦"
+    studying = "Cybersecurity & Cyberdefense"
+
+    passions = [
+        "Artificial Intelligence 🧠",
+        "Cybersecurity 🔐",
+        "Creative Coding 🌷"
+    ]
+
+    currently = "Learning, building & growing"
+    mindset = "Dream big. Start small. Keep going ♡"
+```
+
+<p align="center">
+  🌷 <b>Exploring AI</b> &nbsp;·&nbsp;
+  🔐 <b>Securing the future</b> &nbsp;·&nbsp;
+  ✨ <b>Creating with purpose</b>
+</p>
+
 
 ```python
 khaoula = {
