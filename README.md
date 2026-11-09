@@ -38,9 +38,6 @@ khaoula = {
 
 </div>
 
-📈 Little steps, real progress
-<div align="center"><img src="./profile-summary-card-output/2077/3-stats.svg" alt="Khaoula's GitHub statistics" width="440" /><img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Languages in Khaoula's public GitHub repositories" width="350" />
-<img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Khaoula's GitHub contribution activity graph" width="790" /><p><sub>Every contribution is a little step forward ♡</sub></p></div>
 
 ### 💌 Let's connect
 
