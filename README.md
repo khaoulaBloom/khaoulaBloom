@@ -38,21 +38,9 @@ khaoula = {
 
 </div>
 
-### 📈 Little steps, real progress
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khaoulaBloom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E7A6BE&text_color=E6DCE7&icon_color=B89CE6" alt="Khaoula's GitHub statistics" width="440" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaoulaBloom&layout=compact&hide_border=true&bg_color=0D1117&title_color=E7A6BE&text_color=E6DCE7" alt="Languages in Khaoula's public GitHub repositories" width="350" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaoulaBloom&bg_color=0D1117&color=E7A6BE&line=B89CE6&point=F4BDD2&area=true&area_color=8B709B&hide_border=true" alt="Khaoula's GitHub contribution activity graph" width="790" />
-
-<p><sub>Every contribution is a little step forward ♡</sub></p>
-
-</div>
+📈 Little steps, real progress
+<div align="center"><img src="./profile-summary-card-output/2077/3-stats.svg" alt="Khaoula's GitHub statistics" width="440" /><img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Languages in Khaoula's public GitHub repositories" width="350" />
+<img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Khaoula's GitHub contribution activity graph" width="790" /><p><sub>Every contribution is a little step forward ♡</sub></p></div>
 
 ### 💌 Let's connect
 
