@@ -12,7 +12,13 @@
 
 </div>
 
+
+
+<br>
+
 ---
+
+<br>
 
 
 ### 🌸 Who I am
@@ -40,6 +46,12 @@ and turning little ideas into meaningful projects. 🌷
 </div>
 
 
+<br>
+
+---
+
+<br>
+
 ```python
 class Khaoula:
     location = "Morocco 🇲🇦"
@@ -54,6 +66,7 @@ class Khaoula:
     currently = "Learning, building & growing"
     mindset = "Dream big. Start small. Keep going ♡"
 ```
+
 
 <p align="center">
   🌷 <b>Exploring AI</b> &nbsp;·&nbsp;
@@ -70,6 +83,12 @@ khaoula = {
 }
 ```
 
+<br>
+
+---
+
+<br>
+
 ### 🎀 My tech world
 
 <div align="center">
@@ -80,6 +99,12 @@ khaoula = {
 
 </div>
 
+
+<br>
+
+---
+
+<br>
 
 ### 💌 Let's connect
 
