@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Khaoula! 🌷
+# Hi, I'm Khaoula! 
 
 ### Cybersecurity Master's Student · AI Enthusiast
 
