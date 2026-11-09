@@ -10,11 +10,10 @@
 
 </div>
 
----
 
 ---
 
-<div align="center">
+<div align="">
 
 ## 🎀 ୨୧ WHO I AM ୨୧
 
