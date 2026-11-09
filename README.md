@@ -52,21 +52,6 @@ and turning little ideas into meaningful projects. 🌷
 
 <br>
 
-```python
-class Khaoula:
-    location = "Morocco 🇲🇦"
-    studying = "Cybersecurity & Cyberdefense"
-
-    passions = [
-        "Artificial Intelligence 🧠",
-        "Cybersecurity 🔐",
-        "Creative Coding 🌷"
-    ]
-
-    currently = "Learning, building & growing"
-    mindset = "Dream big. Start small. Keep going ♡"
-```
-
 
 <p align="center">
   🌷 <b>Exploring AI</b> &nbsp;·&nbsp;
