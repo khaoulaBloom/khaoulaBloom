@@ -46,12 +46,6 @@ and turning little ideas into meaningful projects. 🌷
 </div>
 
 
-<br>
-
----
-
-<br>
-
 
 <p align="center">
   🌷 <b>Exploring AI</b> &nbsp;·&nbsp;
